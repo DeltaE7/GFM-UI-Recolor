@@ -18,10 +18,12 @@ Showcasing every change here is neither productive nor overseeable, so in conclu
 ## Suggestions/Criticism
 If you do have any, send them to my discord Delta#6996 or put me on blast in the Issues.
 
-## DoDR Purple
+## Screenshots (taken with Mish Mash Map Mod)
+
+### DoDR Purple
 ![v2game_jJ9HBcImNW](https://user-images.githubusercontent.com/92607601/217664998-aa1d968b-cb7f-4e30-83cd-8b07a472edf9.jpg)
 ![v2game_SKnVS9hNn2](https://user-images.githubusercontent.com/92607601/217665953-d17c8ce6-cb63-4f44-a002-ceb3d0ffe319.jpg)
-## Duhamel Black
+### Duhamel Black
 ![v2game_HfwrOqQJjt](https://user-images.githubusercontent.com/92607601/217667545-61bec1cd-acf8-4b7d-b528-d5604cae9993.jpg)
 ![v2game_t6UgrIeE76](https://user-images.githubusercontent.com/92607601/217667550-1834da6a-8fde-419e-b3ac-c82f3bc86940.jpg)
 
