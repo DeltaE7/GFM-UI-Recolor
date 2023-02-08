@@ -11,7 +11,7 @@ This project patches the UI of
 		https://www.moddb.com/mods/duhamel-gui) 
    
 and allows you to use them while playing GFM. 
-Why only GFM? Because it's the only mod I play and i have no desire to test or add compatibility to any other mods. I changed almost 100 files combined so no, this isn't a straight re-upload. 
+Why only GFM? Because it's the only mod I play and i have no desire to test or add compatibility to any other mods. I changed almost 100 files combined, so no, this isn't a straight re-upload. 
 
 Showcasing every change here is neither productive nor overseeable, so in conclusion: more consistent UI and some of my own changes such as the minimap or the topbar country title.
 
