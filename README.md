@@ -8,7 +8,7 @@ This project patches the UI of
 
 	Jupiterson's Duhamel GUI 
 		https://github.com/Jupiterson/Duhamel-GUI
-		https://www.moddb.com/mods/duhamel-gui) 
+		https://www.moddb.com/mods/duhamel-gui 
    
 and allows you to use them while playing GFM. 
 Why only GFM? Because it's the only mod I play and i have no desire to test or add compatibility to any other mods. I changed almost 100 files combined, so no, this isn't a straight re-upload. 
